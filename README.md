@@ -25,7 +25,11 @@ A modern employee and task management application built with React. EMS provides
 
 Watch the application demo to see the login flow, employee management, task assignment, and task status updates.
 
-**[▶ Watch the EMS Demo on YouTube](YOUR_YOUTUBE_VIDEO_URL)**
+**[▶ Watch the EMS Demo Video] 
+
+https://github.com/user-attachments/assets/00102264-6ad7-4b34-9e33-814fbfcba3eb
+
+**
 
 Alternatively, you can add a GIF preview directly to this README:
 
